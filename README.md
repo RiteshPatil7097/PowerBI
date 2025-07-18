@@ -8,7 +8,7 @@
 
 *Created a clean star schema data model.
 
-*Designed a single-page interactive dashboard.
+*Designed a single-page interactive dashboard
 
 *Used visualizations: bar chart, line chart, slicer, card, etc.
 
